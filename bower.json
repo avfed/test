@@ -1,0 +1,9 @@
+{
+  "name": "dz",
+  "dependencies": {
+    "jquery": "1.11"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0"
+  }
+}
